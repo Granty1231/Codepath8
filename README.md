@@ -18,23 +18,32 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection (SQLi)
 
-<img src=https://github.com/Granty1231/Codepath8/blob/master/cpweek8-csrf.gif/>
+<img src=https://github.com/Granty1231/Codepath8/blob/master/cpweek8-sqli.gif/>
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking/Fixation
 
+<img src=https://github.com/Granty1231/Codepath8/blob/master/cpweek8-session.gif/>
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Scripting (XSS)
 
-Vulnerability #2: __________________
+<img src=https://github.com/Granty1231/Codepath8/blob/master/cpweek8-xss.gif/>
+
+Vulnerability #2: Username Enumeration
+
+<img src=https://github.com/Granty1231/Codepath8/blob/master/cpweek8-uenum.gif/>
 
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
-Vulnerability #2: __________________
+<img src=https://github.com/Granty1231/Codepath8/blob/master/cpweek8-idor.gif/>
+
+Vulnerability #2: Cross-Site Request Forgery (CSRF)
+
+<img src=https://github.com/Granty1231/Codepath8/blob/master/cpweek8-csrf.gif/>
 
 
 ## Notes
