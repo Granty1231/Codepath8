@@ -18,7 +18,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection (SQLi)
 
-
+<img src=https://github.com/Granty1231/Codepath8/blob/master/cpweek8-csrf.gif/>
 
 Vulnerability #2: __________________
 
